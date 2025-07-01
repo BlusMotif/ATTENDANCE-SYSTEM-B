@@ -398,7 +398,7 @@ exportBtn.addEventListener('click', function() {
                     <h1 style="margin: 15px 0; font-size: 24px;">KOFORIDUA TECHNICAL UNIVERSITY</h1>
                     <h2 style="margin: 10px 0; font-size: 20px;">Faculty of Applied Science and Technology</h2>
                     <h3 style="margin: 10px 0; font-size: 18px;">Department of Computer Science</h3>
-                    <h4 style="margin: 10px 0; font-size: 16px;">COMPUTER SCIENCE BTECH (300)</h4>
+                    <h4 style="margin: 10px 0; font-size: 16px;">HND NETWORKING A (300)</h4>
                     <div style="margin: 20px 0; padding: 10px; border: 2px solid #333; display: inline-block;">
                         <h2 style="margin: 0;">ATTENDANCE SHEET</h2>
                     </div>
